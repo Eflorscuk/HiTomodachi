@@ -1,0 +1,23 @@
+{
+  "name": "apihitomodachi",
+  "version": "1.0.0",
+  "description": "This component will serve to feed the database with the information collected from the front, as well as to feed the front through the information from the db.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eflorscuk/HiTomodachi.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node"
+  ],
+  "author": "Evandro Florscuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eflorscuk/HiTomodachi/issues"
+  },
+  "homepage": "https://github.com/Eflorscuk/HiTomodachi#readme"
+}
